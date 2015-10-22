@@ -64,5 +64,12 @@
 	<github>sunder86 </github>
 	<group> KrZZIs3011Io </group>
     </student>
+	<student>
+        <firstname> Paweł </firstname>
+        <lastname> Rachwał </lastname>
+        <email> s181483@wizard.uek.krakow.pl </email>
+        <github> pawelrachwal </github>
+        <group> KrDZIs3012Io </group>
+    </student>
 
 </students>
